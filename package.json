@@ -2,7 +2,7 @@
   "name": "fx_data",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://galkremer1.github.io/currencyEchange",
+  "homepage": "https://galkremer1.github.io/currencyExchange/",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "react": "^16.8.4",
