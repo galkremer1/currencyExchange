@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/currencyEchange/precache-manifest.8400eeac164bb561e058b65413ad9a18.js"
+  "/currencyExchange/precache-manifest.4ffe1f669aea8cfe5020a295f36e91ae.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/currencyEchange/index.html", {
+workbox.routing.registerNavigationRoute("/currencyExchange/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
