@@ -7,6 +7,7 @@
     "@material-ui/core": "^3.9.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-dropdown": "^1.6.4",
     "react-scripts": "2.1.8",
     "react-stockcharts": "^0.7.8"
   },

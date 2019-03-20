@@ -2,7 +2,7 @@
   background-color: #282c34;
   height: 50px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
@@ -15,4 +15,8 @@ button.selected {
 
 button.selected:hover {
   background-color: lightgray;
+}
+
+.Dropdown-root {
+  margin-left: 30px;
 }

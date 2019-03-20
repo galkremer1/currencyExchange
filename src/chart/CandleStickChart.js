@@ -59,7 +59,7 @@ class CandleStickChartWithAnnotation extends React.Component {
 					xExtents={xExtents}>
 
 				<Label x={(width - margin.left - margin.right) / 2} y={30}
-					fontSize="30" text={chartTitle} />
+					fontSize={30} text={chartTitle} />
 
 				<Chart id={1}
 						yExtents={[d => [d.high, d.low]]}
@@ -75,13 +75,13 @@ class CandleStickChartWithAnnotation extends React.Component {
 						displayFormat={format(".2f")} />
 
 					<Label x={(width - margin.left - margin.right) / 2} y={height - 45}
-						fontSize="12" text="XAxis Label here" />
+						fontSize={12} text="XAxis Label here" />
 
 					<YAxis axisAt="right" orient="right" ticks={5} />
 
 					<Label x={yAxisLabelX} y={yAxisLabelY}
 						rotate={-90}
-						fontSize="12" text="YAxis Label here" />
+						fontSize={12} text="YAxis Label here" />
 
 					<CandlestickSeries />
 					<EdgeIndicator itemType="last" orient="right" edgeAt="right"
