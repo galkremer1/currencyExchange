@@ -1,13 +1,15 @@
 {
-  "main.css": "/currencyExchange/static/css/main.5224231d.chunk.css",
-  "main.js": "/currencyExchange/static/js/main.092032ed.chunk.js",
-  "main.js.map": "/currencyExchange/static/js/main.092032ed.chunk.js.map",
+  "main.css": "/currencyExchange/static/css/main.1bc49cb0.chunk.css",
+  "main.js": "/currencyExchange/static/js/main.e963d292.chunk.js",
+  "main.js.map": "/currencyExchange/static/js/main.e963d292.chunk.js.map",
   "runtime~main.js": "/currencyExchange/static/js/runtime~main.3c630591.js",
   "runtime~main.js.map": "/currencyExchange/static/js/runtime~main.3c630591.js.map",
-  "static/js/2.c979a2e3.chunk.js": "/currencyExchange/static/js/2.c979a2e3.chunk.js",
-  "static/js/2.c979a2e3.chunk.js.map": "/currencyExchange/static/js/2.c979a2e3.chunk.js.map",
+  "static/css/2.0ee0156f.chunk.css": "/currencyExchange/static/css/2.0ee0156f.chunk.css",
+  "static/js/2.f2e08eb5.chunk.js": "/currencyExchange/static/js/2.f2e08eb5.chunk.js",
+  "static/js/2.f2e08eb5.chunk.js.map": "/currencyExchange/static/js/2.f2e08eb5.chunk.js.map",
   "index.html": "/currencyExchange/index.html",
-  "precache-manifest.4ffe1f669aea8cfe5020a295f36e91ae.js": "/currencyExchange/precache-manifest.4ffe1f669aea8cfe5020a295f36e91ae.js",
+  "precache-manifest.37baaebe0292c197f0c9bf5f23a6b609.js": "/currencyExchange/precache-manifest.37baaebe0292c197f0c9bf5f23a6b609.js",
   "service-worker.js": "/currencyExchange/service-worker.js",
-  "static/css/main.5224231d.chunk.css.map": "/currencyExchange/static/css/main.5224231d.chunk.css.map"
+  "static/css/2.0ee0156f.chunk.css.map": "/currencyExchange/static/css/2.0ee0156f.chunk.css.map",
+  "static/css/main.1bc49cb0.chunk.css.map": "/currencyExchange/static/css/main.1bc49cb0.chunk.css.map"
 }
